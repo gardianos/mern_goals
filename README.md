@@ -1,6 +1,6 @@
 Goalsetter FullStack MERN app
 
-##Usage 
+## Usage 
 
 ### Install dependencies 
 ```
