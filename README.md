@@ -2,7 +2,7 @@
 
 ![alt text](/app.png)
 
-## Usage
+## SetUp
 
 ### Install dependencies
 
