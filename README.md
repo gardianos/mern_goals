@@ -1,15 +1,18 @@
 # Goalsetter FullStack MERN app
 
-## Usage 
+![alt text](/app.png)
 
-### Install dependencies 
+## Usage
+
+### Install dependencies
+
 ```
 # Backend
 npm install or yarn install
-npm run server 
+npm run server
 
-# Frontend 
-cd frontend 
-npm install or yarn install 
-npm start 
+# Frontend
+cd frontend
+npm install or yarn install
+npm start
 ```
